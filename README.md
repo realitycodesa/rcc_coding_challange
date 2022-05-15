@@ -25,5 +25,5 @@ Graphical representation of actual use-case:
 Use your imagination to fill in the missing information however you like to achieve the result.
 
 # Bonus Points
- - Optimize `request-data.json` json structure/schema.
+ - Optimize `data.json` json structure/schema.
  - Extendable structure which allows to add more types easily in the future.
