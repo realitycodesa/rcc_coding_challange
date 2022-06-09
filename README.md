@@ -1,6 +1,6 @@
 # Task
 
-- Parse `data.json` into the query similar to `result.sql`. 
+- Parse `data.json` into the query similar to `result.sql`. Video Explaining the task [HERE](https://drive.google.com/file/d/1VMeqR9xavh-cpEIbhi2DU6ZipqoUwSY5/view?usp=sharing)
 
 - Inside `data.json` you have two properties `nodes` and `edges`, `nodes` contains all the required
 information to apply the transformation into Query and `edges` represents how they are linked together. In each node there is a property `transformObject` which is different for each `type`
